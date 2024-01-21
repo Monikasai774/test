@@ -1,0 +1,59 @@
+1. what is Devops
+DevOps combines development (Dev) and operations (Ops) to unite people, process, and technology 
+in application planning, development, delivery, and operations. DevOps enables coordination and 
+collaboration between formerly siloed roles like development, IT operations, quality engineering,
+and security.
+2. why do we use devops
+There are several reasons why we use DevOps. Here are some of them:
+Smaller cycles of production, faster innovation
+Reduced Deployment Delays, Rollbacks, and Times to Recovery
+Improved interaction and cooperation
+Increased performance
+Reduce expense and IT staff
+Possibilities for Career Advancement
+More constant deployment
+3. what are the benefits of Devops
+The benefits of DevOps include faster and easier releases, team efficiency, increased security,
+higher quality products, and consequently happier teams and customers. 
+Teams that practice DevOps release deliverables more frequently, with higher quality 
+and stability.
+4. Name a few devops tools
+ansible, chef, puppet, jenkins, docker, kubernetes, git, gitlab, Nagios,splunk, maven etc.,
+5. what are containers
+Containers are packages of software that contain all of the necessary elements to run in any 
+environment. In this way, containers virtualize the operating system and run anywhere, 
+from a private data center to the public cloud or even on a developer's personal laptop.
+6. what are Azure Pipelines
+Azure Pipelines is a cloud-based solution by Microsoft that automatically builds and 
+tests code projects.It supports all major languages and project types. 
+Azure Pipelines combines continuous integration (CI) and continuous delivery (CD) to test, build, and 
+deliver code to any destination.
+7. what are popular devops tools for CI and CD
+CI-Jenkins, Circle CI, Travis CI, Gitlab CI/CD and GitHub Actions
+CD-Gitlab CI/CD, Azure Devops Pipelines, Google Cloud Build and AWS Code pipeline
+8. what are some of useful plugins in Jenkins
+Easy Installation Feature,Docker Plugin for Jenkins,Jira Plugin,Slack Notification Plugin
+Maven Plugin,Amazon EC2 Plugin,JUnit Plugin,Pipeline Plugin,Mailer Plugin,Green Balls Plugin
+9. what are different Devops Solution architectures
+ continuous development, continuous integration, continuous testing, continuous deployment, 
+and continuous monitoring constitute DevOps Life cycle
+10. what are the reasons to use CI/CD and Azure Pipelines
+Azure Pipelines provides a quick, easy, and safe way to automate building your projects and making 
+them available to users. Azure Pipelines combines continuous integration (CI) and 
+continuous delivery (CD) to test and build your code and ship it to any target. 
+Works with open-source projects.
+
+11. What is IAC?
+Infrastructure as Code (IaC) is an approach to managing data center server, storage, and networking infrastructure. IaC is meant to significantly simplify large-scale configuration and management.
+
+12. KUbernetes Architecture?
+A Kubernetes cluster has two main components—the control plane and data plane, machines used as compute resources. The control plane hosts the components used to manage the Kubernetes cluster. Worker nodes can be virtual machines (VMs) or physical machines. A node hosts pods, which run one or more containers.
+
+13. Explain about Docker?
+Docker is a software platform that allows you to build, test, and deploy applications quickly. Docker packages software into standardized units called containers that have everything the software needs to run including libraries, system tools, code, and runtime.
+
+14. Explain about Jenkins?
+Jenkins is an open-source automation tool written in Java with plugins built for continuous integration. Jenkins is used to build and test your software projects continuously making it easier for developers to integrate changes to the project, and making it easier for users to obtain a fresh build.
+
+15. Explain about Ansible?
+Ansible® is an open source, command-line IT automation software application written in Python. It can configure systems, deploy software, and orchestrate advanced workflows to support application deployment, system updates, and more. Ansible's main strengths are simplicity and ease of use.
